@@ -1,2 +1,1 @@
 # metallb-system
-metallb-system
